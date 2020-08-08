@@ -23,5 +23,5 @@ Each training and test example is assigned to one of the following labels:
 ## Results
 * A validation dataset of size 12,000 was deduced from the Training dataset with its size being changed to 48,000.
 * This linear model uses 784 nodes at input layer, 512, 256 nodes in the first and second hidden layers respectively, with ouput layer of 10 nodes (10 classes).
-* The test accuracy is ***89%*** (This result does ***uses has dropout probability of 20%***
+* The test accuracy is ***89%*** (This result ***uses dropout probability of 20%***
 * A "model.pt" file has been included. With this one can directly load the model state_dict and use for testing.
