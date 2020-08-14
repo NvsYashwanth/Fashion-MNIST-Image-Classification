@@ -25,7 +25,7 @@ Each training and test example is assigned to one of the following labels:
 | 9 | Ankle boot |
 
 ## Results
-***`A validation dataset of size 12,000 was deduced from the Training dataset with its size being changed to 48,000. We train the following models for 20 epochs.`***
+***`A validation dataset of size 12,000 was deduced from the Training dataset with its size being changed to 48,000. We train the following models for 50 epochs.`***
 
 ***Model - 1 : FCNN***
 * This `Linear Model` uses 784 nodes at input layer, 512, 256 nodes in the first and second hidden layers respectively, with ouput layer of 10 nodes (10 classes).
