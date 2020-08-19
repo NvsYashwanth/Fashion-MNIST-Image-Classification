@@ -47,5 +47,5 @@ Each training and test example is assigned to one of the following labels:
 * A `convNet_model.pth` file has been included. With this one can directly load the model state_dict and use for testing.
 
 <p align='center'>
-  <img src='https://github.com/NvsYashwanth/Fashion-MNIST/blob/master/Images/MNIST%20Fashion%20Losses.png'>
+  <img src='https://github.com/NvsYashwanth/Fashion-MNIST-Image-Classification/blob/master/Images/MNIST%20Fashion%20Losses.png'>
 </p>
